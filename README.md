@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sonkgs
-- 👀 I’m interested in ... electronics, robotics, game dev
+- 👀 I’m interested in ... electronics, robotics, cybersecurity
 - 🌱 I’m currently learning ... phyton, javascrip, Kali Linux
-- 💞️ I’m looking to collaborate on ... games and robots
+- 💞️ I’m looking to collaborate on ... games, robots and hacking
 - 📫 How to reach me ...
 
 <!---
